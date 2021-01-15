@@ -1,5 +1,12 @@
 # Tesla API
 
+This is a fork of https://github.com/mlowijs/tesla_api.  My version
+uses the requests pacakge to talk to the Tesla server where as the
+https://github.com/mlowijs/tesla_api version now uses AsyncIO.  I
+suggest you use https://github.com/mlowijs/tesla_api since it is still
+under active development.
+
+
 This is a package for connecting to the Tesla API.
 
 ## Usage for a vehicle
